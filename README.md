@@ -5,3 +5,6 @@
 
 ## 과제 제출 과정
 * [과제 제출 방법](https://github.com/next-step/nextstep-docs/tree/master/precourse)
+
+## 구현기능목록
+1~9 를 포함한 랜덤한 세자리 숫자 추출
