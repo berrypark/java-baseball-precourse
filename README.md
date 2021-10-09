@@ -7,6 +7,8 @@
 * [과제 제출 방법](https://github.com/next-step/nextstep-docs/tree/master/precourse)
 
 ## 구현기능목록
+* 자바컨벤션준수 (https://naver.github.io/hackday-conventions-java/)
+
 숫자 야구 게임을 할 수 있다.
 1~9까지 서로 다른 수로 이루어진 3자리의 수를 맞추는 게임.
 
